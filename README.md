@@ -20,7 +20,7 @@ A fully functional e-commerce platform developed for international sporting even
 - Payment simulation.
 - Search engine optimization for high traffic.
 
-**Tech Stack**: .NET Core, Angular, SQL Server
+**Tech Stack**: .NET Core, VUE, SQL Server
 
 ### [University Management System](#)
 A system developed to streamline the academic and administrative processes for universities, including:
@@ -28,7 +28,7 @@ A system developed to streamline the academic and administrative processes for u
 - Course scheduling and grade tracking.
 - Integration with third-party APIs.
 
-**Tech Stack**: Java, Spring Boot, Oracle SQL
+**Tech Stack**: .NET, Angular, SQL Server
 
 ### [Deloitte Financial Validation System](#)
 A transaction validation system designed for financial institutions, ensuring compliance with PCI standards. Features include:
@@ -44,17 +44,18 @@ Developed scalable full-stack applications for international clients, featuring:
 - Serverless backends on AWS.
 - Advanced logging and monitoring.
 
-**Tech Stack**: Angular, React, AWS, Java
+**Tech Stack**: Angular, React, AWS, Java, Spring Boot
 
 ## 🚀 Goals and Interests
 
-- Build scalable and maintainable applications.
-- Explore cloud technologies and DevOps tools.
-- Collaborate on open-source projects.
+- Build scalable and maintainable applications that solve real-world problems.
+- Explore and master cloud technologies and DevOps tools to enhance application delivery.
+- Design accessible and user-friendly interfaces to improve the quality of life for individuals with disabilities.
+- Collaborate on open-source projects and contribute to the developer community.
 
 ## 📫 Let's Connect
 
-- **Email**: [YourEmail@example.com](mailto:antonio.gonzalez.smr@gmail.com)
+- **Email**: [antonio.gonzalez.smr@gmail.com](mailto:antonio.gonzalez.smr@gmail.com)
 - **LinkedIn**: [linkedin.com/in/agonzalezlc](https://linkedin.com/in/agonzalezlc)
 - **GitHub**: [github.com/tonyglc](https://github.com/tonyglc)
 
